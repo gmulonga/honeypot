@@ -1,0 +1,20 @@
+{
+  "type": "bundle",
+  "id": "bundle--027ea307-fad0-4c41-8ca7-c0b29f0d63cc",
+  "objects": [
+    {
+      "type": "identity",
+      "spec_version": "2.1",
+      "id": "identity--980bfcd9-5668-47c4-a20a-1100ab4931d7",
+      "created": "2025-12-30T09:22:22.879235Z",
+      "modified": "2025-12-30T09:22:22.879235Z",
+      "name": "Kenyan Cloud Security Team",
+      "identity_class": "organization",
+      "sectors": [
+        "technology",
+        "security"
+      ],
+      "contact_information": "security@kenyancloud.ke"
+    }
+  ]
+}
